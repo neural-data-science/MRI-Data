@@ -7,3 +7,8 @@ scipy==1.11.1
 seaborn==0.12.2
 mne==1.4.2
 mne_bids==0.12
+imageio==2.35.1
+scipy.ndimage==1.14.0
+dicom2nifti==2.4.11
+nibabel==5.3.0
+nilearn==0.10.3
